@@ -1,1 +1,3 @@
 MEU PRIMEIRO COMMMIT NO GIT?
+
+descrevendo melhor esta coisa que eu nem sei oq e :) ...
